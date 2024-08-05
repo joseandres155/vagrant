@@ -24,3 +24,7 @@ module VagrantPlugins
     end
   end
 end
+end
+
+docker_start_service
+client.rbm
