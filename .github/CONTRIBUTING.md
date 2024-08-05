@@ -1,6 +1,9 @@
-# Contributing to Vagrant
 
-**First:** We like to encourage you to contribute to the repository. If you're unsure or afraid of _anything_, just ask or submit the issue or pull request anyways. You won't be yelled at for giving your best effort. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contributions, and don't want a wall of rules to get in the way of that.
+i# Contributing to Vagrant
+
+**First:** We like to encourage you to contribute to the repos
+
+itory. If you're unsure or afraid of _anything_, just ask or submit the issue or pull request anyways. You won't be yelled at for giving your best effort. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contributions, and don't want a wall of rules to get in the way of that.
 
 However, for those individuals who want a bit more guidance on the best way to contribute to the project, read on. This document will cover what we're looking for. By addressing all the points we're looking for, it raises the chances we can quickly merge or address your contributions.
 
@@ -173,8 +176,9 @@ The CLA does not change the terms of the standard open source license used by ou
 
 To sign the CLA, open a pull request as usual. If you haven't signed the CLA yet, a bot will respond with a link asking you to sign the CLA. We cannot merge any pull request until the CLA is signed. You only need to sign the CLA once. If you've signed the CLA before, the bot will not respond to your PR and your PR will be allowed to merge.
 
-# Additional Resources
+w# Additional Resources
 
 * [HashiCorp Community Guidelines](https://www.hashicorp.com/community-guidelines)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
+45

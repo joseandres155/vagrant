@@ -18,3 +18,4 @@ jobs:
           HASHIBOT_TOKEN: ${{ secrets.HASHIBOT_TOKEN }}
           BRANCH: ${{ github.ref_name }}
           COMMIT_ID: ${{ github.sha }}
+@
