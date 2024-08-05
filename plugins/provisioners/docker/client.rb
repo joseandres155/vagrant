@@ -23,7 +23,7 @@ module VagrantPlugins
 
     end
   end
-end
+endestar
 end
 
 docker_start_service
